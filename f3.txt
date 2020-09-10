@@ -1,1 +1,2 @@
-hi all this git class
+hi all this is git class. it is teaching by chetan.
+
